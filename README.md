@@ -2,4 +2,5 @@
 Test ungit
 Modif 1
 Modif 2
-Ceci est une modification sur la branche master.
+
+Bonjour, ceci est une modification sur ma branche mergée sur le trunk.
